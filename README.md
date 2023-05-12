@@ -1,6 +1,6 @@
 # BFK
 
-## The project has been created
+## Project created
 ```
 ~ 01.11.2022
 ```
